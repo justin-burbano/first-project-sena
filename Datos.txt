@@ -1,0 +1,4 @@
+nombre: justin sebastian burbano gallego
+edad: 79
+correo: jusseb2020@gmail.com
+color favorito: negro oscuro
